@@ -1,20 +1,8 @@
 # React Projects
 
-#### React Course
-
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
-
-#### Support
-
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
-
-#### Tutorial Video
-
-[React Tutorial](https://youtu.be/iZhV0bILFb0)
-
 #### All Projects
 
-[Projects Site](https://react-projects.netlify.app/)
+[The Projects Site](https://react-projects.netlify.app/)
 
 ## Corresponding Tutorial Topics
 
@@ -54,9 +42,11 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 
 15. Cocktails
 
+# References
+
 ## Advanced Projects (Course Exclusive)
 
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
+[The React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
 
 16. Markdown Preview
 17. Random Person
@@ -66,3 +56,11 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 21. Movie DB
 22. Hacker News
 23. Quiz
+
+#### Support
+
+Find the Content Useful? [You can always buy him a coffee](https://www.buymeacoffee.com/johnsmilga)
+
+#### Tutorial Video
+
+[The React Tutorial](https://youtu.be/iZhV0bILFb0)
