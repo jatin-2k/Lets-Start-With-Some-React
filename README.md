@@ -59,7 +59,7 @@
 
 #### Support
 
-Find the Content Useful? [You can always buy him a coffee](https://www.buymeacoffee.com/johnsmilga)
+Find the Content Useful? [You can always buy them a coffee](https://www.buymeacoffee.com/johnsmilga)
 
 #### Tutorial Video
 
